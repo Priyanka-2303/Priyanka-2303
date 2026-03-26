@@ -1,6 +1,9 @@
 <h2> Hey there! I'm Priyanka Tiwari. <h6><a href="https://drive.google.com/file/d/1Kdj9jQydQOjwnzfRDrpxwmXxFlXzQ0Ue/view?usp=sharing">Check out my resume</a></h6> </h2>
 
 <h2> 👨🏻‍💻 &nbsp;Experience <h6><a href="https://drive.google.com/drive/folders/1T9zzy4hTKaR4nYv7lEpOLMuXE2ilX8Xh?usp=drive_link">Work samples</a></h6> </h2>
+<h3> <a href="https://flophero.com/en/">AlgoSoftware </a> | Chennai | on-site </h3>
+<h2>Senior Software Engineer</h2>
+<section> Revamped the core NLH Strategies module (Next.js, TypeScript, Redux, Tailwind), optimizing rendering pipelines for 70k+ datapoints and building high-performance equity visualizations (100k+ samples) to enable real-time insights; also contributed to the design system, mentored engineers, and leveraged AI-driven tooling to accelerate development, improve code quality, and reduce implementation time for complex UI features. </section>
 <h3> <a href="https://interactiveeq.com/">Interactive EQ </a> | USA | Remote</h3>
 <h2>Founding Engineer</h2>
 <section> I developed the MVP of an AI-based video assessment platform from the ground up to evaluate soft skills and emotional intelligence (EQ) of talent. I was responsible for the entire lifecycle—from architecture and development to production deployment. Today, the platform is actively used by 40+ dealers across the USA. Beyond frontend and system development, I bring strong product engineering experience, having worked closely on user experience, performance optimization, and feature strategy to align with real-world use cases. </section>
