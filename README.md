@@ -41,7 +41,7 @@
 <h3> 📈 &nbsp;GitHub Analytics </h3>
 
 
-<a href="https://github.com/Priyanka-23">
+<a href="https://github.com/Priyanka-2303">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Priyanka-23&show_icons=true&theme=merko&locale=en" alt="Priyanka-23" />
     
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Priyanka-23&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Priyanka-23" />
@@ -55,7 +55,7 @@
 <p align="left">
 
 <a href="mailto:priyankatiwary23@gmail.com"><img src="https://img.shields.io/badge/-priyankatiwary23@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
- <a href="https://www.linkedin.com/in/priyanka-tiwari-bb4468163"><img src="https://img.shields.io/badge/-Priyanka%20Tiwari-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+ <a href="https://www.linkedin.com/in/priyanka-tiwari-pt23/"><img src="https://img.shields.io/badge/-Priyanka%20Tiwari-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="https://www.codechef.com/users/pt_23"><img src="https://img.shields.io/badge/Codechef-pt_23-D14836?style=flat&logo=Codechef&logoColor=black"/></a>
   <a href="https://leetcode.com/priyankatiwary23/"><img src="https://img.shields.io/badge/Leetcode-priyankatiwary23-D14836?style=flat&logo=Leetcode&logoColor=yellow"/></a>
 </p>
