@@ -43,10 +43,6 @@
 
 <a href="https://github.com/Priyanka-2303">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Priyanka-23&show_icons=true&theme=merko&locale=en" alt="Priyanka-23" />
-    
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Priyanka-23&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Priyanka-23" />
-</a>
-
 
 <br/>
 
