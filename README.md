@@ -38,14 +38,6 @@
 
 <br/>
 
-<h3> 📈 &nbsp;GitHub Analytics </h3>
-
-
-<a href="https://github.com/Priyanka-2303">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Priyanka-23&show_icons=true&theme=merko&locale=en" alt="Priyanka-23" />
-
-<br/>
-
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="left">
