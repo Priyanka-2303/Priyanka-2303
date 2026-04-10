@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Priyanka Tiwari. <h6><a href="https://drive.google.com/file/d/1Kdj9jQydQOjwnzfRDrpxwmXxFlXzQ0Ue/view?usp=sharing">Check out my resume</a></h6> </h2>
+<h2> Hey there! I'm Priyanka Tiwari. <h6><a href="https://drive.google.com/file/d/1aFbIHmj0wG4fzhZL33efh4YqQJps9IAZ/view?usp=sharing">Check out my resume</a></h6> </h2>
 
 <h2> 👨🏻‍💻 &nbsp;Experience <h6><a href="https://drive.google.com/drive/folders/1T9zzy4hTKaR4nYv7lEpOLMuXE2ilX8Xh?usp=drive_link">Work samples</a></h6> </h2>
 <h3> <a href="https://flophero.com/en/">AlgoSoftware </a> | Chennai | on-site </h3>
